@@ -1,0 +1,14 @@
+# This file uses inches as units for non-parametric coordinates.
+
+g default
+v -921.379761 0.000000 217.353363
+v -921.379761 0.000000 -441.071411
+v 0.025566 0.000000 217.353363
+v 0.025566 0.000000 -441.071411
+vt 0.500005 0.614010
+vt 0.315738 0.614010
+vt 0.315738 0.443798
+vt 0.500005 0.443798
+s off
+g F2A3b unbox_floor_rx_full
+f 4/1 2/2 1/3 3/4
