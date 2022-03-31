@@ -26,7 +26,7 @@ vt 0.340666 0.415046
 vt 0.340666 0.097470
 vt 0.340666 0.000000
 s 1
-g F2A4b room_floor_rx_orig
+g F2A4b room_floor_rx_orig room2
 f 1/1 2/2 5/3 6/4
 f 3/5 10/6 5/3 2/2
 f 11/7 10/6 3/5 4/8

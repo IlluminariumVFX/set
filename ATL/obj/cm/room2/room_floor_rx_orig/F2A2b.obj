@@ -10,5 +10,5 @@ vt 0.250001 0.878118
 vt 0.250001 0.608692
 vt 0.500007 0.608692
 s off
-g F2A2b room_floor_rx_orig
+g F2A2b room_floor_rx_orig room2
 f 3/1 1/2 2/3 4/4

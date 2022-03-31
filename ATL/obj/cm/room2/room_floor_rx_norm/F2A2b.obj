@@ -10,5 +10,5 @@ vt 0.000000 1.000000
 vt 0.000000 0.000000
 vt 1.000000 0.000000
 s off
-g F2A2b room_floor_rx_norm
+g F2A2b room_floor_rx_norm room2
 f 3/1 1/2 2/3 4/4
