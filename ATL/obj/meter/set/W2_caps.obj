@@ -1,4 +1,4 @@
-# This file uses centimeters as units for non-parametric coordinates.
+# This file uses inches as units for non-parametric coordinates.
 
 g default
 v 14.084291 0.000000 0.200012
@@ -218,7 +218,7 @@ vt 0.000000 0.000000
 vt 1.000000 0.000000
 vt 1.000000 1.000000
 s off
-g W2A_caps W2_caps R2_set set
+g W2A_caps W2_caps set
 f 2/1 11/4 10/3 1/2
 f 3/5 12/8 11/7 2/6
 f 4/9 13/12 12/11 3/10
@@ -365,7 +365,7 @@ vt 0.000000 0.000000
 vt 1.000000 0.000000
 vt 1.000000 1.000000
 s off
-g W2_caps R2_set set W2B_caps
+g W2_caps set W2B_caps
 f 78/141 87/144 86/143 77/142
 f 79/145 88/148 87/147 78/146
 f 80/149 89/152 88/151 79/150
@@ -440,7 +440,7 @@ vt 0.000000 0.000000
 vt 1.000000 0.000000
 vt 1.000000 1.000000
 s off
-g W2_caps R2_set set W2C_caps
+g W2_caps set W2C_caps
 f 116/211 115/212 124/213 125/214
 f 117/215 116/216 125/217 126/218
 f 118/219 117/220 126/221 127/222

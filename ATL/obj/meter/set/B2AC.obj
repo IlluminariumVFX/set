@@ -1,4 +1,4 @@
-# This file uses centimeters as units for non-parametric coordinates.
+# This file uses inches as units for non-parametric coordinates.
 
 g default
 v 0.098568 0.460288 2.604690
@@ -2518,7 +2518,7 @@ vt 0.235322 0.767579
 vt 0.235566 0.767332
 vt 0.235809 0.767084
 s 1
-g B2AC R2_set set
+g B2AC set
 f 194/1 195/2 260/3 259/4
 f 196/5 194/1 259/4 261/6
 f 195/2 197/7 262/8 260/3

@@ -1,4 +1,4 @@
-# This file uses centimeters as units for non-parametric coordinates.
+# This file uses inches as units for non-parametric coordinates.
 
 g default
 v 15.913102 0.304800 0.187322
@@ -156,7 +156,7 @@ vt 0.690185 0.342846
 vt 0.690185 0.457294
 vt 0.690185 0.502520
 s off
-g W2A_door R2_set set
+g W2A_door set
 f 23/23 12/12 1/1 22/22
 f 12/12 47/47 48/48 1/1
 f 22/22 1/1 3/3 21/21

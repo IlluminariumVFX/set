@@ -1,4 +1,4 @@
-# This file uses centimeters as units for non-parametric coordinates.
+# This file uses inches as units for non-parametric coordinates.
 
 g default
 v -8.711660 670.560120 -5.688362
@@ -194,7 +194,7 @@ vt 0.019171 0.038342
 vt 0.500000 0.000000
 vt 0.490247 0.037450
 s off
-g S2AC_cap R2_set set
+g S2AC_cap set
 f 30/59 1/1 3/4 31/58
 f 29/57 5/7 1/8 30/56
 f 33/61 4/10 6/9 32/60

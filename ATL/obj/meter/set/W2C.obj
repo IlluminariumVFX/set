@@ -1,4 +1,4 @@
-# This file uses centimeters as units for non-parametric coordinates.
+# This file uses inches as units for non-parametric coordinates.
 
 g default
 v 0.740237 0.304800 1.130883
@@ -470,7 +470,7 @@ vt 0.021832 0.502451
 vt 0.007278 0.502451
 vt -0.000000 0.502450
 s off
-g W2C R2_set set
+g W2C set
 f 6/1 11/6 65/65 66/66
 f 7/2 12/7 11/6 6/1
 f 8/3 13/8 12/7 7/2
