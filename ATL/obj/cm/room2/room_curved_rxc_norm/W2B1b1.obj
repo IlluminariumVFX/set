@@ -46,7 +46,7 @@ vt 1.000000 0.007769
 vt 0.000013 0.000000
 vt 1.000000 0.000000
 s 1
-g W2B1b1 room_curved_rxc_norm
+g W2B1b1 room_curved_rxc_norm room2
 f 11/1 10/2 13/3 12/4
 f 14/5 13/3 10/2 9/6
 f 9/6 8/7 15/8 14/5

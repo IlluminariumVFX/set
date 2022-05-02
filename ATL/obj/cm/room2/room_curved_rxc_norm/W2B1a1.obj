@@ -156,7 +156,7 @@ vt 1.000000 0.015467
 vt 1.000000 0.007735
 vt 1.000000 0.000000
 s 1
-g W2B1a1 room_curved_rxc_norm
+g W2B1a1 room_curved_rxc_norm room2
 f 7/1 5/2 6/3 8/4
 f 9/5 7/1 8/4 10/6
 f 11/7 9/5 10/6 12/8

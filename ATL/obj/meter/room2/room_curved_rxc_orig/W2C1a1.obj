@@ -266,7 +266,7 @@ vt 0.430099 0.015323
 vt 0.430099 0.007588
 vt 0.430099 0.000000
 s 1
-g W2C1a1 room_curved_rxc_orig
+g W2C1a1 room_curved_rxc_orig room2
 f 6/1 11/2 65/3 66/4
 f 7/5 12/6 11/2 6/1
 f 8/7 13/8 12/6 7/5
