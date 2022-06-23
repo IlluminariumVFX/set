@@ -1,0 +1,14 @@
+# This file uses inches as units for non-parametric coordinates.
+
+g default
+v 40.547886 0.000000 -965.369629
+v 40.547886 0.000000 -801.526184
+v 941.658936 0.000000 -965.369629
+v 941.658936 0.000000 -801.526184
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 1.000000
+s off
+g F2A02dR room_floor_rxoc_norm room2
+f 2/1 4/2 3/3 1/4
